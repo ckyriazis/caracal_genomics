@@ -1,4 +1,4 @@
-# caracal_genomics
+# Scripts for Kyriazis et al. 2023 bioRxiv
 
 This repository contains scripts associated with Kyriazis et al. 2023 bioRxiv, "The influence of gene flow on population viability in an isolated urban caracal population".
 
