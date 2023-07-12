@@ -1,0 +1,35 @@
+[2022-10-24 08:36:00] Start extracting no conserved regions for cat 1 JOB_ID: 4815487
+The qsub input
+cat 1
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 6 JOB_ID: 4815502
+The qsub input
+cat 6
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 5 JOB_ID: 4815502
+The qsub input
+cat 5
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 10 JOB_ID: 4815502
+The qsub input
+cat 1[2022-10-24 08:39:22] Start extracting no conserved regions for cat 7 JOB_ID: 4815502
+The qsub input
+cat 7
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 12 JOB_ID: 4815502
+The qsub input
+cat 12
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 14 JOB_ID: 4815502
+The qsub input
+cat 14
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 8 JOB_ID: 4815502
+The qsub input
+cat 8
+[2022-10-24 08:39:23] Start extracting no conserved regions for cat 18 JOB_ID: 4815502
+The qsub input
+cat 18
+[2022-10-24 08:39:22] Start extracting no conserved regions for cat 15 JOB_ID: 4815502
+The qsub input
+cat 15
+[2022-10-24 08:39:23] Start extracting no conserved regions for cat 16 JOB_ID: 4815502
+The qsub input
+cat 16
+[2022-10-24 08:39:23] Start extracting no conserved regions for cat 17 JOB_ID: 4815502
+The qsub input
+cat 17

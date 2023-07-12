@@ -1,0 +1,30 @@
+[2022-10-21 13:48:56] Start creating fasta file for cat JOB_ID: 4786881
+The qsub input
+cat 4786881
+
+
+Building a new DB, current time: 10/21/2022 13:55:06
+New DB name:   /u/project/klohmuel/ckyriazi/caracal_pipeline/reference/zebraFish_genome/Dare_blastdb
+New DB title:  Danio_rerio.GRCz11.dna.toplevel.fa
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /u/project/klohmuel/ckyriazi/caracal_pipeline/reference/zebraFish_genome/Dare_blastdb
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1923 sequences in 672.889 seconds.
+
+
+[2022-10-21 14:25:50] Start creating fasta file for cat JOB_ID: 4787668
+The qsub input
+cat 4787668
+
+
+Building a new DB, current time: 10/21/2022 14:36:08
+New DB name:   /u/project/klohmuel/ckyriazi/caracal_pipeline/reference/zebraFish_genome/Dare_blastdb
+New DB title:  Danio_rerio.GRCz11.dna.toplevel.fa
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /u/project/klohmuel/ckyriazi/caracal_pipeline/reference/zebraFish_genome/Dare_blastdb
+Keep MBits: T
+Maximum file size: 3000000000B
+Adding sequences from FASTA; added 1923 sequences in 1188.71 seconds.
+
+

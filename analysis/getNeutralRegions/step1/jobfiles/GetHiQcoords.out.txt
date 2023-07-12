@@ -1,0 +1,10 @@
+[2022-10-05 10:10:51] Start GetHiQCoords for cow {IDX} Job ID: 1
+The qsub input
+cow 1
+[2022-10-05 10:10:51] Start GetHiQCoords for cow {IDX} Job ID: 8
+The qsub input
+cow 8
+4
+[2022-10-05 10:10:51] Start GetHiQCoords for cow {IDX} Job ID: 15
+The qsub input
+cow 15

@@ -1,0 +1,14 @@
+Error: NCBI C++ Exception:
+    T0 "/home/coremake/release_build/build/PrepareRelease_Linux64-Centos_JSID_01_660219_130.14.18.128_9008__PrepareRelease_Linux64-Centos_1643834072/c++/compilers/unix/../../src/corelib/ncbiobj.cpp", line 992: Critical: (CCoreException::eNullPtr) ncbi::CObject::ThrowNullPointerException() - Attempt to access NULL pointer.
+     Stack trace:
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 ncbi::CObject::ThrowNullPointerException() offset=0x9C addr=0x16d38fc
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 ncbi::blast::CBlastTracebackSearch::Run() offset=0xA03 addr=0xd93573
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 ncbi::blast::CLocalBlast::Run() offset=0x1E13 addr=0xd55053
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 CBlastnApp::x_RunMTBySplitDB() offset=0x177B addr=0x9fb9cb
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 CBlastnApp::Run() offset=0x34 addr=0x9fe7a4
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 ncbi::CNcbiApplicationAPI::x_TryMain(ncbi::EAppDiagStream, char const*, int*, bool*) offset=0x13B addr=0x16274fb
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 ncbi::CNcbiApplicationAPI::AppMain(int, char const* const*, char const* const*, ncbi::EAppDiagStream, char const*, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) offset=0x6FD addr=0x162af2d
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 main offset=0x69 addr=0x9c4079
+      /lib64/libc.so.6 ???:0 __libc_start_main offset=0xF5 addr=0x2b9a1bd9e555
+      /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn ???:0 /u/home/c/ckyriazi/project-klohmuel/software/ncbi-blast-2.13.0+//bin/blastn() [0x9f0db3] offset=0x0 addr=0x9f0db3
+
